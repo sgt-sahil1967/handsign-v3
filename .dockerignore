@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+.DS_Store
+.pytest_cache
+.venv
+venv
+env
+*.egg-info
+.streamlit/secrets.toml
+streamlit_output.log
+*.log
+.vscode
+.idea
+runs/
